@@ -1,0 +1,5 @@
+*.[oa]
+!lib.a
+*~
+/TODO
+build/
