@@ -44,6 +44,7 @@ public class Main {
 			for (String s : listLine) {
 				pw.print(s);
 			}
+			pw.println();
 			pw.flush();
 		}
 	}
